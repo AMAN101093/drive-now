@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>#/index.html</loc><changefreq>monthly</changefreq></url>
+  <url><loc>#/services.html</loc><changefreq>monthly</changefreq></url>
+  <url><loc>#/how-it-works.html</loc><changefreq>monthly</changefreq></url>
+  <url><loc>#/why-us.html</loc><changefreq>monthly</changefreq></url>
+  <url><loc>#/join-driver.html</loc><changefreq>monthly</changefreq></url>
+  <url><loc>#/contact.html</loc><changefreq>monthly</changefreq></url>
+  <url><loc>#/booking.html</loc><changefreq>monthly</changefreq></url>
+  <url><loc>#/terms.html</loc><changefreq>monthly</changefreq></url>
+  <url><loc>#/privacy-policy.html</loc><changefreq>monthly</changefreq></url>
+  <url><loc>#/cancellation-and-refund-policy.html</loc><changefreq>monthly</changefreq></url>
+  <url><loc>#/404.html</loc><changefreq>monthly</changefreq></url>
+</urlset>
